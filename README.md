@@ -1,9 +1,7 @@
 # Date Difference Calculator
-
 A lightweight and user-friendly web application that calculates the exact difference between two dates in **Years, Months, and Days** using pure HTML, CSS, and JavaScript.
 
 ## 📋 Features
-
 - Select a Start Date and End Date
 - Calculate duration in:
   - Years
@@ -160,6 +158,5 @@ This project is licensed under the MIT License.
 
 Developed using HTML, CSS, and JavaScript.
 
----
 
 ⭐ If you found this project useful, consider giving it a star on GitHub.
