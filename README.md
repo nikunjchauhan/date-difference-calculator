@@ -3,6 +3,7 @@
 A lightweight and user-friendly web application that calculates the exact difference between two dates in **Years, Months, and Days** using pure HTML, CSS, and JavaScript.
 
 ## 📋 Features
+
 - Select a Start Date and End Date
 - Calculate duration in:
   - Years
