@@ -1,4 +1,5 @@
 # Date Difference Calculator
+
 A lightweight and user-friendly web application that calculates the exact difference between two dates in **Years, Months, and Days** using pure HTML, CSS, and JavaScript.
 
 ## 📋 Features
@@ -17,7 +18,7 @@ A lightweight and user-friendly web application that calculates the exact differ
 
 Enter a start date and an end date, then click **Calculate** to view the exact date difference.
 
-### Example
+### Examples
 
 | Start Date | End Date | Result |
 |------------|----------|---------|
